@@ -1,1 +1,5 @@
-# ForAlgorithms-
+# ForAlgorithms-    
+
+### 소개 
+-----
+여러 알고리즘 문제를 풀어보고 풀이과정을 올리는 레포입니다.
